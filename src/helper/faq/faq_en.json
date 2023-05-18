@@ -1,0 +1,229 @@
+{
+    "data": [
+        {
+            "category": 1,
+            "question": "What is Carny?",
+            "answer": "Carny is a curated NFT marketplace which aims to host best-in-class creators from different verticals like art, celebrities & sport. Please see the \"About Us\" page for more details."
+        },
+        {
+            "category": 1,
+            "question": "What is an NFT?",
+            "answer": "An NFT (non-fungible token) is a unit of data stored on a blockchain network that functions as \"proof of ownership & authenticity\" for unique assets like digital art pieces or collectibles. Visit our blog to learn more about NFTs."
+        },
+        {
+            "category": 1,
+            "question": "What is blockchain?",
+            "answer": "A blockchain is a publicly accessible online ledger (database) of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain. Once your NFTs are recorded on the ledger, they cannot be modified or removed by a central authority."
+        },
+        {
+            "category": 1,
+            "question": "On which blockchain does Carny run its operations?",
+            "answer": "Carny is running on Binance Smart Chain mainly due to low transactions fees for both creators and collectors."
+        },
+        {
+            "category": 1,
+            "question": "What do I need to use Carny?",
+            "answer": "Carny is a web-based solution that can be accessed over both desktop and mobile. The only thing you will need is the browser add-ins or mobile apps of third-party cryptocurrency wallets that you will connect to Carny. Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 1,
+            "question": "How do I get started?",
+            "answer": "To use Carny, you need to connect your third-party cryptocurrency wallet. Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 2,
+            "Tab": "Wallet Usage",
+            "question": "What is a cryptocurrency wallet?",
+            "answer": "A cryptocurrency wallet is a secure digital wallet used to store, send, and receive cryptocurrencies. To store your NFTs, you will need to use a cryptocurrency wallet."
+        },
+        {
+            "category": 2,
+            "question": "Which options are available for using Carny?",
+            "answer": "Currently, you can connect to Carny with third-party wallets Metamask & TrustWallet."
+        },
+        {
+            "category": 2,
+            "question": "How can I connect my crypto wallet to Carny?",
+            "answer": "You can use the \"Login\" button on the top right corner to choose which third-party wallet you would like to connect to. Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 2,
+            "question": "What is the seed phrase for crypto wallets?",
+            "answer": "Seed Phrase is a key that can be used to recover your wallet account if you forget your password. The third-party wallet provides the phrase, and it is essential to store this piece of information in a secure place. Otherwise, you will lose your NFTs forever when you forget your account credentials."
+        },
+        {
+            "category": 2,
+            "question": "Which cryptocurrencies should I store to make purchases in Carny?",
+            "answer": "Currently only accepted cryptocurrency in Carny is BNB, which is the native coin of Binance Smart Chain."
+        },
+        {
+            "category": 2,
+            "question": "Where can I buy BNBs?",
+            "answer": "We suggest using the global or local applications of Binance to buy BNBs securely. You can also buy BNBs directly in your TrustWallet with a credit card."
+        },
+        {
+            "category": 2,
+            "question": "How can I top-up my crypto wallet with BNBs?",
+            "answer": "You can transfer BNBs from cryptocurrency exchanges like Binance to your MetaMask or TrustWallet accounts using your wallet address, like traditional money transfer experience with bank account numbers. Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 2,
+            "question": "Should I pay for using crypto wallets?",
+            "answer": "You do not need to pay anything to open up a wallet account or to maintain it. However, for each transaction, you will pay commissions."
+        },
+        {
+            "category": 2,
+            "question": "Who controls my crypto account balance?",
+            "answer": "You have full ownership of your balance through the third-party wallet service you use; Carny does not hold your balance on your behalf."
+        },
+        {
+            "category": 3,
+            "Tab": "Buying NFTs",
+            "question": "How do I buy an NFT?",
+            "answer": "There are three main sales statuses for NFTs. In the first one, \"Buy Now\", you can buy the NFT immediately as you pay the set amount by the creator. In the \"Live Auction\" case, you can bid for an NFT, and you will buy it if your bid is the highest at the end of the auction. In the last scenario, \"Available for Offer\", you can make an offer to the seller as the price is not pre-determined. Sales will take place if your offer is accepted. In all cases, the amount will be deducted from your account balance automatically and will be transferred to the seller. Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 3,
+            "question": "Do I need to pay any fees to buy an NFT?",
+            "answer": "Although Carny does not charge any buyer fees, you need to pay a small transaction fee to the blockchain network independent from Carny. So, before trying to buy an NFT, please make sure that your balance is enough to cover the NFT price along with the transaction fee."
+        },
+        {
+            "category": 3,
+            "question": "Which payment methods are accepted?",
+            "answer": "Currently, cryptocurrencies are the only way of making payments. The team is working on alternative payment methods for your convenience."
+        },
+        {
+            "category": 3,
+            "question": "How does the escrow system work in auctions?",
+            "answer": "To take part in the auctions, you will need to have the necessary balance to cover your bid. That amount will be blocked during the auction and automatically transferred to the seller if your offer is the highest. If any other user overbids, your funds will be refunded. As each transaction will be subject to a transaction fee, we recommend overbidding the previous offer at least by 5%.   "
+        },
+        {
+            "category": 3,
+            "question": "Where do I keep my NFTs?",
+            "answer": "Your NFTs are transferred to your third-party crypto wallet upon purchase. So you have full ownership of the NFTs while the creation files uploaded are stored in a secure location by Carny."
+        },
+        {
+            "category": 3,
+            "question": "How can I see my collected NFTs?",
+            "answer": "To see all your NFTs, you can go to the \"Collected\" tab under your \"Profile\"."
+        },
+        {
+            "category": 3,
+            "question": "Can I resell my NFTs?",
+            "answer": "You can resell your NFTs either as \"Buy Now\" with a pre-determined price or as \"Available for Offer\", in which you can evaluate the offers from potential buyers without a set price. Currently, \"Live Auction\" is only available for creators in the first-hand market."
+        },
+        {
+            "category": 3,
+            "question": "Can I transfer/gift my NFTs to other users?",
+            "answer": "As you are the true owner of your NFTs, you can transfer/gift them to other collectors without getting paid."
+        },
+        {
+            "category": 4,
+            "Tab": "Creating NFTs",
+            "question": "What is NFT minting?",
+            "answer": "Minting basically refers to the process of creating NFT over a selected asset."
+        },
+        {
+            "category": 4,
+            "question": "Who can mint NFTs in Carny?",
+            "answer": "Carny is a curated marketplace. Only approved creators in each vertical are entitled to create NFTs in Carny platform."
+        },
+        {
+            "category": 4,
+            "question": "How can I mint NFTs on Carny?",
+            "answer": "After you are approved as creator, you will have access to the \"NFT Minting\" page.  Please visit the \"How To Use?\" section to access our video guides on this issue."
+        },
+        {
+            "category": 4,
+            "question": "Should I pay for minting NFTs?",
+            "answer": "Although the gas fee paid for minting an NFT is volatile, the recent amount is referred to as 0.005 BNB by Binance sources. Please make sure that you have enough balance in your wallet before start minting."
+        },
+        {
+            "category": 4,
+            "question": "Who owns my NFTs?",
+            "answer": "NFTs are stored in your third-party wallet. Carny, or your third-party wallet, does not have access to your NFTs."
+        },
+        {
+            "category": 4,
+            "question": "What am I selling exactly?",
+            "answer": "Unless you have a special agreement with Carny, the buyer of an edition will be given the right to use and display that specific edition for non-commercial purposes only, along with the right of reselling that particular edition in the second-hand market."
+        },
+        {
+            "category": 4,
+            "question": "Who sets the price for my NFTs?",
+            "answer": "Creators have complete control over the prices of NFTs they minted"
+        },
+        {
+            "category": 4,
+            "question": "What is an edition?",
+            "answer": "Creators can choose the number of editions for each NFT they create. Each edition is unique, with a number in the collection. As the prices of editions are set by the market separately, editions can vary hugely in price according to the demand."
+        },
+        {
+            "category": 4,
+            "question": "How many editions can I create for an NFT?",
+            "answer": "Carny provides complete control to the creator on the number of editions. However, we strongly suggest the creators limit their creations strategically as the actual value of an NFT comes from being limited."
+        },
+        {
+            "category": 4,
+            "question": "What is unlockable content?",
+            "answer": "Unlockable Content is a free text area that will be seen only by the buyer of that NFT. This text area can be used for attaching notes, web links, or promo codes."
+        },
+        {
+            "category": 4,
+            "question": "What is the co-creation mechanism?",
+            "answer": "Co-creation is an automatic settlement mechanism for creations with two copyright owners. Sales revenue generated from first-hand sales and second-hand royalty can automatically be distributed between two co-creators with a flexible percentage. In the co-creation case, although the rights on the revenue are mutual, the primary owner of the NFT on the blockchain network will be the minter."
+        },
+        {
+            "category": 4,
+            "question": "Can I make changes after minting the NFT?",
+            "answer": "Once you mint the NFT, you cannot change the underlying asset, name, explanations, or number of editions. Please make sure that you are comfortable with the content before minting."
+        },
+        {
+            "category": 4,
+            "question": "How do I get paid for my sold NFTs?",
+            "answer": "Once your creation is sold, your amount will be automatically debited to your crypto wallet. Payments are facilitated automatically by the system over smart contracts, so Carny does not have any control on funds transferred upon payments."
+        },
+        {
+            "category": 4,
+            "question": "How does the royalty system work?",
+            "answer": "For every second-hand sale, creators will collect a 10% royalty fee to protect their creator rights to the perpetuity."
+        },
+        {
+            "category": 5,
+            "Tab": "Becoming a Creator",
+            "question": "How can I apply to become a creator?",
+            "answer": "To apply, you can go to the \"Become a Creator\" form from here. Please make sure that you fill all the necessary areas before you submit."
+        },
+        {
+            "category": 5,
+            "question": "How long should I wait to hear back about my application?",
+            "answer": "Applications are handled in badges, so it can take some time to go over your application. If you have a concern about your form being submitted correctly, you can contact us."
+        },
+        {
+            "category": 5,
+            "question": "How can I track my application status?",
+            "answer": "In case your creator status is approved, we will let you know by e-mail. Please make sure that you entered your e-mail address correctly during application & check your mailbox frequently. "
+        },
+        {
+            "category": 6,
+            "Tab": "Fees & Commissions",
+            "question": "Does Carny have a membership fee?",
+            "answer": "No, Carny does not charge any membership fees."
+        },
+        {
+            "category": 6,
+            "question": "What are the platform fees for sellers?",
+            "answer": "If you are the creator of an NFT, you will be charged a 10% commission over your sales amount. If you are reselling an NFT in the second-hand market, the 5% platform commission will automatically be deducted from your sales amount."
+        },
+        {
+            "category": 6,
+            "question": "Do I need to pay any fees for buying NFTs?",
+            "answer": "Carny does not charge any buyer fees in both first and second-hand sales."
+        },
+        {
+            "category": 6,
+            "question": "Do I need to pay any other fees for buying or selling NFTs besides platform fees?",
+            "answer": "For each transaction, from minting an NFT to bidding for it, you will need to pay a small amount to the blockchain network. These fees are not controlled or owned by Carny."
+        }
+    ]
+}

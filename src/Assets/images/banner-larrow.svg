@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A3E9EF47-8CAC-4962-B67E-00846318FA59</title>
+    <g id="Avangart-Website-#01-Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.200000003" stroke-linecap="round">
+        <g id="Avangart-Home-Page-02-(visual)" transform="translate(-580.000000, -704.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="content_set" transform="translate(0.000000, 100.000000)">
+                <g transform="translate(560.000000, 588.000000)" id="content_line">
+                    <g transform="translate(20.000000, 16.000000)">
+                        <g id="arrow" transform="translate(10.000000, 10.000000) scale(-1, 1) rotate(90.000000) translate(-10.000000, -10.000000) translate(5.937500, 3.750000)">
+                            <line x1="4.0625" y1="0" x2="4.0625" y2="12.5" id="Stroke-1"></line>
+                            <polyline id="Stroke-3" points="8.125 3.75 4.0625 0 0 3.75"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

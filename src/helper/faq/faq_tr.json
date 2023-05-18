@@ -1,0 +1,225 @@
+{
+    "data": [
+        {
+            "category": 1,
+            "question": "Carny nedir?",
+            "answer": "Carny; sanat, celebrity ve spor gibi farklı kategorilerde alanının en iyi üreticilerini bir araya getiren bir NFT marketplace'tir. Daha fazla bilgi için \"Hakkımızda\" kısmına göz atabilirsiniz."
+        },
+        {
+            "category": 1,
+            "question": "NFT nedir?",
+            "answer": "NFT'ler (non-fungible token) blockchain ağları üzerinde tutulan ve eşsiz varlıkları temsil eden sertifikalar olarak tanımlanabilir. Bu sertifikalar dijital sanat eserleri veya koleksiyon ürünleri gibi varlıklar için birer sahiplik ve doğrulama mekanizması görevi görmektedir. Böylece temsil edilen varlığın bir anda tek bir sahibinin olması güvence altına alınmaktadır. "
+        },
+        {
+            "category": 1,
+            "question": "Blockchain nedir?",
+            "answer": "Blockchain, kayıtların veya verilerin bir ağ üstündeki tüm bilgisayar sistemleri üzerinde dağıtılmış bir şekilde tutulduğu bir online ledger (defter, veri tabanı) olarak tanımlanabilir. Blockchain, kaydını tuttuğu NFT'lerin merkezi bir otorite tarafından silinemez ve değiştirilemez olmasını sağlamaktadır."
+        },
+        {
+            "category": 1,
+            "question": "Carny hangi blockchain üzerinde çalışıyor?",
+            "answer": "Carny, düşük işlem ücretleri sebebi ile Binance Smart Chain üzerinde çalışmaktadır."
+        },
+        {
+            "category": 1,
+            "question": "Carny'ı kullanmak için neye ihtiyacım var?",
+            "answer": "Carny mobil ve masaüstü cihazlardan erişilebilen bir web servisi sunmaktadır. Servisten faydalanmak için kullanacağınız kripto cüzdana ait browser eklentisini veya uygulamayı indirmeniz yeterli olacaktır. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 1,
+            "question": "Nasıl kullanmaya başlayabilirim?",
+            "answer": "Carny'a giriş yapmak ve kullanmaya başlamak için kripto cüzdanınızı sisteme entegre etmeniz yeterli olacaktır. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 2,
+            "question": "Kripto cüzdan nedir?",
+            "answer": "Kripto cüzdanlar kripto varlıklarınızı güvenle saklamanızı ve transfer etmenizi sağlayan elektronik cüzdanlardır. Carny'ta satın aldığınız NFT'leri saklamak için bir kripto cüzdan kullanmanız gerekmektedir."
+        },
+        {
+            "category": 2,
+            "question": "Carny'ta işlem yapabilmek için hangi kripto cüzdanları kullanabilirim?",
+            "answer": "Carny'ta yapacağınız NFT işlemleri için MetaMask ve TrustWallet cüzdanlarınızı kullanabilirsiniz."
+        },
+        {
+            "category": 2,
+            "question": "Cüzdanımı nasıl Carny'a bağlayabilirim?",
+            "answer": "Carny'a giriş yapmak ve cüzdanınızı bağlamak için sağ üst köşede gördüğünüz \"Giriş Yap\" butonunu kullanabilirsiniz. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 2,
+            "question": "Kripto cüzdanımda bahsedilen \"seed phrase\" ne demektir?",
+            "answer": "Kripto cüzdanınızın giriş bilgilerini kaybetmeniz durumunda seed phrase, veya anahtar cümle, hesabınızı kurtarmak için kullanılan bir yedekleme mekanizmasıdır. Cüzdan sağlayıcı tarafından sağlanan seed phrase'inizi güvenli bir yerde saklamak hesabınızı kurtarmak için kritik olacaktır. Aksi taktirde, giriş bilgilerinizi unutmanız durumunda, NFT'lerinizi kaybetme riski ile karşı karşıya kalabilirsiniz."
+        },
+        {
+            "category": 2,
+            "question": "Carny'ta işlem yapabilmek için cüzdanımda hangi kripto para birimleri bulunmalı?",
+            "answer": "Şu an platformda kabul edilen tek ödeme yöntemi Binance Smart Chain'in kripto para birimi olan BNB'dir."
+        },
+        {
+            "category": 2,
+            "question": "Nereden BNB alabilirim?",
+            "answer": "BNB alımları için Binance'in global borsasını veya Türkiye'ye özel hizmet veren uygulaması TR Binance'i kullanabilirsiniz. Aynı zamanda kullanacağınız TrustWallet uygulaması da kredi kartı ile BNB alımlarına imkan tanımaktadır."
+        },
+        {
+            "category": 2,
+            "question": "Aldığım BNB'leri nasıl Carny'ta kullanacağım cüzdanıma aktarabilirim?",
+            "answer": "Binance gibi kripto borsalarından aldığınız BNB'leri cüzdan adresinizi kullanarak, bugünkü geleneksel para transferi akışına benzer bir şekilde, MetaMask veya TrustWallet cüzdanınıza aktarabilirsiniz. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 2,
+            "question": "Kripto cüzdan kullanmam için ödemem gereken bir ücret var mı?",
+            "answer": "Carny'ta kullanabileceğiniz kripto cüzdanlar açılış veya hesap işletim ücreti almamaktadır. Ancak yaptığınız her işlem için değişen oranlarda komisyon almak cüzdan sağlayıcılarının inisiyatifindedir."
+        },
+        {
+            "category": 2,
+            "question": "Carny'ta kullandığım cüzdanımda kripto paralarım kimin kontrolünde?",
+            "answer": "Carny'ta kullanmak üzere cüzdanlarınıza aktardığınız fonlar, kripto cüzdanınız aracılığı ile, tamamen sizin kontrolünüzdedir. Carny hesabınızdaki kripto varlıklara erişim yetkisine sahip değildir."
+        },
+        {
+            "category": 3,
+            "question": "Nasıl NFT alabilirim?",
+            "answer": "Carny NFT satışları için üç ayrı işlem şekli sunmaktadır. \"Hemen Al\" olarak satışa konan ürünler sabit fiyatla satın alınabilirken, \"Müzayede\" eserlerinde belirlenen süre sonunda en yüksek teklifi veren kullanıcı eseri satın almaya hak kazanmaktadır. Yalnızca ikinci el satışlarda mevcut olan \"Tekliflere Açık\" fonksiyonu ile alıcılar fiyatı önceden belirlenmemiş eserler için teklif verip, teklifin kabul edilmesi durumunda eseri satın alabilirler. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 3,
+            "question": "NFT almak için herhangi bir ücret ödemem gerekir mi?",
+            "answer": "Carny NFT alımlarında komsiyon ücreti almamaktadır. Fakat platformdan bağımsız olarak blockchain ağı her işlem için küçük bir komisyon uygulamaktadır. Bu sebeple alım yaparken cüzdan bakiyenizin alacağınız NFT ile birlikte potansiyel işlem ücretlerini de kapsayacak miktarda olmasını tavsiye ederiz."
+        },
+        {
+            "category": 3,
+            "question": "NFT alırken hangi ödeme yöntemlerini kullanabilirim?",
+            "answer": "Şu an Carny'ta NFT almak için yalnızca kripto paralar ile ödeme yapabilirsiniz. Carny ekibi kullanıcı deneyimini iyileştirmek adına alternatif ödeme yöntemleri üzerine çalışmaktadır."
+        },
+        {
+            "category": 3,
+            "question": "Müzayedelerde escrow (bloke) mekanizması nasıl çalışır?",
+            "answer": "Müzayedelerde teklif verebilmeniz için vereceğiniz teklif miktarının cüzdanınızda hazır bulunması gerekmektedir. Verdiğiniz teklif oranında bakiyeniz bloke edilerek müzayede kazanmanız durumunda bu miktar direkt olarak satıcıya aktarılacaktır. Teklifinizin daha yüksek bir teklif tarafından geçersiz kılınması durumunda ise bakiyeniz iade edilecektir. Bloke sistemi üreticilerin haklarını korumak için tasarlanmış olup lütfen teklif verirken bu teklifi geri alamayacağınızı aklınızda bulundurun. Her teklif blockchain ağı üzerinde bir işlem ücretine tabi olacağından vereceğiniz teklifin bir önceki tekliften en az %5 daha fazla olmasını tavsiye ederiz."
+        },
+        {
+            "category": 3,
+            "question": "Aldığım NFT'ler nerede saklanıyor?",
+            "answer": "Satın aldığınız NFT'ler kripto paralarınız ile beraber kullandığınız kripto cüzdanınızda saklanır. Carny'ın alınan NFT'lerin saklanması konusunda bir rolü bulunmamaktadır."
+        },
+        {
+            "category": 3,
+            "question": "NFT'lerimi nerede görebilirim?",
+            "answer": "Satın aldığınız NFT'leri profil sayfanızda altında bir arada görüntüleyebilirsiniz."
+        },
+        {
+            "category": 3,
+            "question": "Satın aldığım NFT'leri tekrar satışa çıkarabilir miyim?",
+            "answer": "Satın aldığınız NFT'leri \"Hemen Al\" olarak belirli bir fiyatla veya \"Tekliflere Açık\" olarak fiyatsız bir şekilde tekrar satışa sunabilirsiniz. \"Müzayede\" özelliği şu an yalnızca ilk el satışlarda üreticilerin kullanımına açıktır. "
+        },
+        {
+            "category": 3,
+            "question": "NFT'lerimi diğer kullanıcılara transfer veya hediye edebilir miyim?",
+            "answer": "NFT'lerinizin tüm kontrolü sizde olduğundan rahatlıkla istediğiniz kullancılara transfer işlemi gerçekleştirebilirsiniz."
+        },
+        {
+            "category": 4,
+            "question": "NFT \"mint etmek\" ne demektir?",
+            "answer": "\"Mint etmek\" seçilen varlık üzerine NFT kayıtlarının yaratılması sürecini anlatmaktadır. NFT \"üretmek\" olarak Türkçe'ye çevrilebilir."
+        },
+        {
+            "category": 4,
+            "question": "Carny'ta kimler NFT mint edebilir? ",
+            "answer": "Carny yalnızca platform tarafından seçilen kullanıcıların üretim yapmasına izin vermektedir."
+        },
+        {
+            "category": 4,
+            "question": "Nasıl NFT mint edebilirim?",
+            "answer": "Hesabınızın \"üretici hesabı\" olarak doğrulanması durumunda NFT mint etmek için gerekli alan kullanımınıza açılacaktır. Konuyla ilgili ayrıntılı video anlatımı izlemek için \"Nasıl Kullanılır?\" kısmını ziyaret edebilirsiniz."
+        },
+        {
+            "category": 4,
+            "question": "NFT üretmek için bir ücret ödemem gerekir mi?",
+            "answer": "NFT üretmek için blockchain ağına ödemeniz gereken bir işlem ücreti (gas fee) bulunmaktadır. Gas fee değişkenlik gösteren bir ücret olmakla birlikte Binance tarafından resmi kaynaklarda gösterilen ücret şu an 0.005 BNB'dir. Ödemeniz gereken bu gas fee sebebiyle NFT mint etmeden cüzdanınızda gerekli bakiyenin bulunduğuna emin olmanız önemli olacaktır."
+        },
+        {
+            "category": 4,
+            "question": "Ürettiğim NFT'leri kim saklıyor?",
+            "answer": "Ürettiğiniz NFT'ler kripto paralarınız ile beraber kullandığınız kripto cüzdanınızda saklanır. Carny'ın alınan NFT'lerin saklanması konusunda bir rolü bulunmamaktadır."
+        },
+        {
+            "category": 4,
+            "question": "NFT ile beraber eserimin ticari haklarını da devrediyor muyum?",
+            "answer": "Carny ile ayrı bir sözleşmeniz bulunmaması durumunda platformda ürettiğiniz tüm NFT'ler için satılan edisyonun ticari olmayan kullanım ve gösterim haklarını devretmiş olursunuz. Aynı zamanda alıcı bahsedilen edisyon için ikinci el pazarda satış yapma hakkına da sahip olacaktır."
+        },
+        {
+            "category": 4,
+            "question": "NFT'lerimin satış fiyatını kim belirliyor?",
+            "answer": "Birinci ve ikinci el piyasada fiyat belirleme yetkisi tamamen satıcıdadır."
+        },
+        {
+            "category": 4,
+            "question": "NFT'ler için edisyon ne demektir?",
+            "answer": "Carny'ta ürettiğiniz her NFT için bir edisyon sayısı seçebilirsiniz. Sistemde üretilen her edisyon numaralandırılmış şekilde birbirinden ayrışmaktadır. Her edisyonun değeri market tarafından ayrı ayrı belirlendiğinden farklı edisyonlar farklı fiyatlara sahip olabilir."
+        },
+        {
+            "category": 4,
+            "question": "Bir eser için en fazla kaç edisyon üretebilirim?",
+            "answer": "Carny her NFT için üretilebilecek edisyon sayısı konusunda üreticilere esneklik tanımaktadır. Ancak ürettiğiniz NFT'ler için edisyon sayısını optimum noktada tutmanızı tavsiye ederiz, fazla üretim NFT'lerinizin market değerini etkileyecektir."
+        },
+        {
+            "category": 4,
+            "question": "\"Hediye İçerik\" nedir?",
+            "answer": "\"Hediye içerik\" yalnızca NFT'nin sahibinin görüntüleyebildiği özel bir metin alanıdır. Bu metin alanı üretici tarafından NFT'nin bir sonraki sahiplerine özel bir not yazmak, web linki veya promosyon kodu vermek için kullanılabilir."
+        },
+        {
+            "category": 4,
+            "question": "\"Birlikte Üretme\" mekanizması nedir?",
+            "answer": "Birlikte üretme mekanizması bir eser üzerinde iki üretici veya hak sahibi olması durumunda gelirlerin otomatik olarak bölüşülmesi için kullanılabilecek bir smart contract (akıllı sözleşme) mekanizmasıdır. Bu mekanizma ile iki üretici veya hak sahibi birinci ve ikinci el satışlardan kazanılan gelirleri otomatik olarak belirledikleri oranda aralarında paylaşabilirler. Bu sistemde üretilen NFT'lerin gelecek gelirler üzerinde haklar taraflar arasında garanti altına alınsa da blockchain ağı üzerinden NFT'nin üreticisi teknik olarak mint eden hesap olarak görüntülenecektir."
+        },
+        {
+            "category": 4,
+            "question": "NFT'yi mint ettikten sonra içerikte değişiklik yapabilir miyim?",
+            "answer": "NFT mint edildikten sonra içeriği, açıklaması veya edisyon sayısı gibi özellikleri değiştirilememektedir. Bu sebeple NFT'yi mint etmeden önce içeriği kontrol etmenizi tavsiye ederiz.",
+            "undefined": " "
+        },
+        {
+            "category": 4,
+            "question": "Satılan NFT'lerim için ödemeyi nasıl alırım?",
+            "answer": "Sattığınız NFT'ler için işlem gerçekleştikten sonra ücretiniz kripto para olarak cüzdanınıza aktarılacaktır. Ödemeler smart contract (akıllı sözleşme) tarafından otomatik olarak işleme konmaktadır. Carny platform ödemeler üzerinde bir kontrol veya yetkiye sahip değildir."
+        },
+        {
+            "category": 4,
+            "question": "Telif sistemi nasıl çalışır?",
+            "answer": "Üreticiler eserlerinin her ikinci el satışından satış ücreti üzerinden %10 oranında telif almaya hak kazanırlar. "
+        },
+        {
+            "category": 5,
+            "question": "Carny'ta üretici olmak için nasıl başvurabilirim?",
+            "answer": "Üretici olarak platformda yer almak için \"Üretici Başvurusu\" formunu doldurabilirsiniz. Başvurunuzun doğru değerlendirilebilmesi için formu tam olarak doldurmanız önem arz etmektedir."
+        },
+        {
+            "category": 5,
+            "question": "Başvurumun değerlendirilmesi ne kadar sürer?",
+            "answer": "Başvurular partiler halinde değerlendilmektedir. Bu sebeple başvurunuzun değerlendirilmesi zaman alabilir. Başvurunuzun doğru ulaştığından emin değilseniz bizimle iletişime geçebilirsiniz. "
+        },
+        {
+            "category": 5,
+            "question": "Başvuru durumumu nasıl takip edebilirim?",
+            "answer": "Başvurunuzun olumlu olması durumunda sonraki adımlar ile ilgili bilgiler e-mail vasıtasıyla iletilecektir. Bu sebeple başvuru esnasında verdiğiniz e-mail adresinin doğru olması sürecinizin tamamlanması için kritik olacaktır."
+        },
+        {
+            "category": 6,
+            "question": "Carny'ı kullanmak için bir üyelik ücreti ödemem gerekir mi?",
+            "answer": "Carny kullanıcılarından herhangi bir üyelik ücreti almamaktadır."
+        },
+        {
+            "category": 6,
+            "question": "NFT satışları için ödemem gereken komisyon nedir?",
+            "answer": "Platform komisyon ücreti, işlem ücreti üzerinden, birinci el satışlarda %10, ikinci el satışlarda %5 olarak belirlenmiştir. Satışlar üzerinden elden edilen gelirler platform ücreti otomatik olarak düşüldükten sonra kripto cüzdanınıza aktarılacaktır."
+        },
+        {
+            "category": 6,
+            "question": "NFT satın almak için Carny'a bir ücret ödemem gerekir mi?",
+            "answer": "Carny birinci veya ikinci el satış işlemlerinde alıcı için bir komisyon uygulamamaktadır."
+        },
+        {
+            "category": 6,
+            "question": "Platform ücreti haricinde ödemem gereken bir ücret veya komisyon var mı?",
+            "answer": "NFT üretmek, teklif vermek veya NFT satın almak gibi her işlem için blockchain ağına ödemeniz gereken küçük bir işlem ücreti bulunmaktadır. Bu ücretlerin belirlenmesi ve tahsili Carny'ın kontrolü altında değildir."
+        }
+    ]
+}

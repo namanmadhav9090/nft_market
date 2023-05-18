@@ -1,0 +1,91 @@
+{
+  "name": "avangart",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@kunukn/react-collapse": "^2.2.9",
+    "@loadable/component": "^5.15.0",
+    "@reach/dialog": "^0.15.0",
+    "@solana/web3.js": "^1.63.1",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@walletconnect/qrcode-modal": "^1.5.2",
+    "@walletconnect/web3-provider": "^1.5.2",
+    "axios": "^0.21.1",
+    "babel-eslint": "^10.1.0",
+    "compressorjs": "^1.0.7",
+    "customize-cra": "^1.0.0",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "file-type": "^16.5.3",
+    "framer-motion": "^4.1.17",
+    "ipfs-http-client": "^52.0.3",
+    "it-to-stream": "^1.0.0",
+    "react": "^17.0.2",
+    "react-app-rewired": "^2.1.8",
+    "react-audio-player": "^0.17.0",
+    "react-autosuggest": "^10.1.0",
+    "react-collapsible": "^2.8.3",
+    "react-cookie": "^4.0.3",
+    "react-custom-scrollbars": "^4.2.1",
+    "react-device-detect": "^2.0.0",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^4.2.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-intl": "^5.20.2",
+    "react-lazyload": "^3.2.0",
+    "react-multi-carousel": "^2.6.3",
+    "react-player": "^2.9.0",
+    "react-redux": "^7.2.4",
+    "react-router-dom": "^5.2.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-scripts": "^4.0.3",
+    "react-scrollspy": "^3.4.3",
+    "react-sticky-el": "^2.0.9",
+    "react-tabs": "^3.2.2",
+    "redux": "^4.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "simple-react-video-thumbnail": "0.0.7",
+    "styled-components": "^4.0.0",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.2.11"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject",
+    "server": "npm run build&&node server/index.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-plugin-babel": "^5.3.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  },
+  "homepage": ""
+}

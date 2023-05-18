@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52" height="52" viewBox="0 0 52 52">
+    <defs>
+        <filter id="aaridz74wa" width="147.6%" height="147.6%" x="-23.8%" y="-11.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+        </filter>
+        <path id="fvmn6ddiwb" d="M128 107c11.598 0 21.001 9.4 21 21 0 11.595-9.402 20.994-21 20.994-11.6 0-21-9.397-21-20.993 0-11.6 9.4-21.001 21-21.001zm0 3.505c-9.66 0-17.492 7.838-17.492 17.496 0 9.661 7.832 17.49 17.493 17.49 9.659 0 17.491-7.829 17.49-17.49 0-9.66-7.831-17.496-17.49-17.496zm-2.89 10.245c.351-.18.776-.146 1.096.086l8.721 6.34c.273.199.438.51.436.848 0 .333-.16.646-.436.849l-8.72 6.334c-.185.135-.403.204-.619.204-.165 0-.328-.038-.478-.113-.353-.18-.574-.541-.574-.938v-12.675c0-.393.22-.756.574-.935z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g transform="translate(-1107.000000, -335.000000) translate(180.000000, 228.000000) translate(825.000000, 0.000000)">
+                    <use fill="#000" filter="url(#aaridz74wa)" xlink:href="#fvmn6ddiwb"/>
+                    <use fill="#FFF" xlink:href="#fvmn6ddiwb"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
